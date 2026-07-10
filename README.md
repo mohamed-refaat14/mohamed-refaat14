@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:2563eb&text=Mohamed%20Refaat&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering&descAlignY=60&descSize=17&animation=fadeIn" alt="Mohamed Refaat Header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Science+%26+AI+Student;Aspiring+AI+%2F+Machine+Learning+Engineer;Building+Real+AI+Applications;Learning+LLMs%2C+RAG+and+AI+Engineering" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Science+%26+Artificial+Intelligence+Student;Aspiring+AI+%2F+Machine+Learning+Engineer;Building+Practical+AI+Applications;Learning+LLMs%2C+RAG+and+AI+Engineering" alt="Typing Animation"/>
 </a>
 
 <br/>
@@ -30,30 +30,16 @@
 
 ## About Me
 
-```python
-mohamed_refaat = {
-    "education": "Data Science & Artificial Intelligence at Zewail City",
-    "location": "Giza, Egypt",
-    "career_goal": "AI / Machine Learning Engineer",
-    "currently_building": "Smart Study Assistant",
-    "current_focus": [
-        "Machine Learning",
-        "LLM Applications",
-        "Retrieval-Augmented Generation",
-        "AI Engineering"
-    ]
-}
-```
+I am a **Data Science and Artificial Intelligence student at Zewail City**, focused on building practical AI applications and strengthening my foundations in machine learning, software engineering, and information retrieval.
 
-I am a Data Science and Artificial Intelligence student focused on building practical AI applications and developing strong foundations in machine learning, software engineering, and information retrieval.
-
-I enjoy turning theoretical concepts into working projects, especially systems involving intelligent search, structured LLM outputs, document processing, and educational technology.
-
-* Currently building an AI-powered **Smart Study Assistant**
-* Learning **RAG, embeddings, vector databases, and semantic search**
-* Interested in **AI engineering, machine learning, and LLM applications**
-* Looking for **internships, collaborations, and real-world experience**
 * Based in **Giza, Egypt**
+* Currently building a **Smart Study Assistant**
+* Learning **LLMs, RAG, embeddings, vector databases, and semantic search**
+* Interested in **AI Engineering, Machine Learning, and intelligent search systems**
+* Working toward becoming an **AI / Machine Learning Engineer**
+* Open to **internships, collaborations, and real-world learning opportunities**
+
+I enjoy transforming theoretical concepts into working projects, especially applications involving machine learning, document processing, search engines, structured LLM outputs, and educational technology.
 
 ---
 
@@ -72,17 +58,20 @@ I enjoy turning theoretical concepts into working projects, especially systems i
 * LLM application architecture
 * Backend development
 * AI system design
+* Model deployment
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Building
 
 * AI-powered study tools
 * Document processing pipelines
-* Structured LLM outputs
-* Machine learning experiments
+* Machine learning applications
 * Search and ranking systems
+* Structured LLM outputs
+* Classification models
 * Production-ready Python projects
 
 </td>
@@ -91,20 +80,30 @@ I enjoy turning theoretical concepts into working projects, especially systems i
 
 ---
 
-## Technology Stack
+## Technical Skills
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" alt="Python, C++, and SQL"/>
 </p>
 
-### Machine Learning and Data Science
+### Machine Learning and Artificial Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-4B0082?style=for-the-badge&logo=keras&logoColor=white" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-154F3C?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+</p>
+
+### Data Science Libraries
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
 </p>
 
@@ -131,6 +130,82 @@ I enjoy turning theoretical concepts into working projects, especially systems i
 
 ---
 
+## Core Knowledge
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Machine Learning
+
+* Data preprocessing
+* Feature engineering
+* Classification
+* Model training
+* Model evaluation
+* Hyperparameter tuning
+* Logistic regression
+* Support Vector Machines
+* Perceptrons
+* Neural networks
+
+</td>
+
+<td width="50%" valign="top">
+
+### Information Retrieval
+
+* Text preprocessing
+* Tokenization
+* Stop-word removal
+* Lemmatization
+* Inverted indexes
+* TF-IDF
+* BM25 ranking
+* Query processing
+* Search evaluation
+* Semantic retrieval
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI and LLM Development
+
+* Prompt engineering
+* Structured outputs
+* JSON parsing
+* Pydantic validation
+* LLM provider integration
+* Document processing
+* Text chunking
+* Embeddings
+* RAG architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+### Software Development
+
+* Object-oriented programming
+* Modular project architecture
+* Error handling
+* File processing
+* Virtual environments
+* Package management
+* Git and GitHub
+* Streamlit interfaces
+* API integration
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Featured Projects
 
 <table>
@@ -143,11 +218,11 @@ An AI-powered application that transforms notes and PDF documents into structure
 
 **Features**
 
-* PDF and text input
+* Text and PDF input
 * Automated summaries
 * Key-concept extraction
 * Flashcard generation
-* MCQ generation
+* Multiple-choice question generation
 * Mock exam generation
 * Structured outputs using Pydantic
 * Multiple LLM provider architecture
@@ -156,43 +231,44 @@ An AI-powered application that transforms notes and PDF documents into structure
 
 * Text chunking
 * Embeddings
-* Vector storage
+* Vector databases
 * Semantic retrieval
 * Retrieval-Augmented Generation
 
-**Tech stack**
+**Tools and technologies**
 
-`Python` `Streamlit` `Pydantic` `LLMs` `PDF Processing`
+`Python` `Streamlit` `Pydantic` `LLM APIs` `PyPDF` `JSON` `RAG`
+
+**Skills demonstrated**
+
+`Prompt Engineering` `Software Architecture` `Data Validation` `Document Processing` `AI Integration`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Movie Hunter
+### Movie Hunter Search Engine
 
-An information retrieval system for searching and ranking movies based on user queries.
+A movie search engine that processes natural-language queries and ranks relevant movies using information retrieval techniques.
 
 **Features**
 
-* Text preprocessing
-* Inverted indexing
-* BM25 ranking
-* Movie metadata search
+* Movie dataset preprocessing
+* Tokenization and lemmatization
+* Inverted index construction
+* BM25 document ranking
+* Search by movie title, overview, genre, director, and cast
 * User registration and login
-* Search history
-* Query processing
+* Per-user search history
+* Movie result ranking
 
-**Core concepts**
+**Tools and technologies**
 
-* Information retrieval
-* Tokenization
-* Lemmatization
-* Document ranking
-* Search evaluation
+`Python` `Pandas` `NLTK` `rank-bm25` `CSV` `Information Retrieval`
 
-**Tech stack**
+**Skills demonstrated**
 
-`Python` `Pandas` `NLTK` `BM25`
+`Text Preprocessing` `Search Algorithms` `BM25 Ranking` `Data Structures` `Query Processing` `Authentication`
 
 </td>
 </tr>
@@ -200,49 +276,76 @@ An information retrieval system for searching and ranking movies based on user q
 <tr>
 <td width="50%" valign="top">
 
-### Neural Network from Scratch
+### Handwritten Digit Recognizer
 
-A neural network implemented with NumPy to understand how deep learning works internally.
+A machine learning application that recognizes handwritten digits using the MNIST dataset.
 
-**Implemented concepts**
+**Features**
 
-* Forward propagation
-* Backpropagation
-* Weight initialization
-* Activation functions
-* Loss calculation
-* Gradient descent
-* Multi-class classification
+* Image data preprocessing
+* Pixel normalization
+* Training and test data preparation
+* Multi-class digit classification
+* Neural network training
+* Prediction of digits from zero to nine
+* Accuracy evaluation
+* Comparison between custom and library models
 
-**Tech stack**
+**Tools and technologies**
 
-`Python` `NumPy` `scikit-learn`
+`Python` `NumPy` `Pandas` `scikit-learn` `MNIST` `Matplotlib`
+
+**Models and techniques**
+
+`Neural Networks` `MLPClassifier` `One-Hot Encoding` `Forward Propagation` `Backpropagation`
+
+**Skills demonstrated**
+
+`Image Classification` `Model Training` `Data Preprocessing` `Evaluation Metrics` `Neural Network Fundamentals`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Machine Learning Experiments
+### Neural Network from Scratch
 
-A collection of machine learning implementations and model comparisons.
+A neural network implemented using NumPy to understand the mathematics and internal mechanics of deep learning.
 
-**Topics explored**
+**Implemented concepts**
 
-* Logistic regression
-* Perceptron
-* Support Vector Machines
-* Neural networks
-* Model evaluation
-* Classification metrics
-* Hyperparameter experiments
+* Weight initialization
+* Forward propagation
+* Activation functions
+* Loss calculation
+* Backpropagation
+* Gradient descent
+* Multi-class classification
+* One-hot encoding
 
-**Tech stack**
+**Tools and technologies**
 
-`Python` `NumPy` `Pandas` `scikit-learn`
+`Python` `NumPy` `scikit-learn`
+
+**Skills demonstrated**
+
+`Linear Algebra` `Gradient Descent` `Backpropagation` `Model Evaluation` `Algorithm Implementation`
 
 </td>
 </tr>
 </table>
+
+---
+
+## Machine Learning Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Logistic%20Regression-2563EB?style=flat-square" alt="Logistic Regression"/>
+  <img src="https://img.shields.io/badge/Support%20Vector%20Machines-2563EB?style=flat-square" alt="Support Vector Machines"/>
+  <img src="https://img.shields.io/badge/Perceptron-2563EB?style=flat-square" alt="Perceptron"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-2563EB?style=flat-square" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/Classification-2563EB?style=flat-square" alt="Classification"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-2563EB?style=flat-square" alt="Model Evaluation"/>
+</p>
 
 ---
 
@@ -266,33 +369,19 @@ A collection of machine learning implementations and model comparisons.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-refaat14&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-refaat14&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-## What I Am Working Toward
+## Career Goal
 
-My goal is to become an AI or Machine Learning Engineer who can design complete AI systems rather than only train isolated models.
+My goal is to become an **AI or Machine Learning Engineer** capable of building complete, reliable AI systems.
 
-I am currently improving my understanding of the full development process:
+I am working on improving my knowledge across the full AI development process:
 
-```text
-Data Preparation
-       ↓
-Model or LLM Integration
-       ↓
-Structured Validation
-       ↓
-Retrieval and Search
-       ↓
-Backend Architecture
-       ↓
-User Interface
-       ↓
-Testing and Deployment
-```
+**Data Preparation → Model Development → Evaluation → AI Integration → Backend Architecture → User Interface → Testing → Deployment**
 
 ---
 
@@ -300,7 +389,7 @@ Testing and Deployment
 
 <div align="center">
 
-I am open to internships, collaborative projects, AI discussions, and opportunities to learn from experienced engineers.
+I am open to internships, collaborative projects, AI discussions, and opportunities to gain real-world experience.
 
 <br/><br/>
 
